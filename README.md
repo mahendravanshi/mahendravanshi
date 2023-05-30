@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Backend Developer
+Analytical and detail-oriented aspiring Back-End Java Developer. Capable of writing production-ready code using HTML, CSS, JavaScript on the Front-End and Hibernate, Java, and SQL on the Back-End.
 
 
 ## 🌐 Socials:
