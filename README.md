@@ -5,7 +5,7 @@
 </h1>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirup-bakshi-39221a244/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendra-chandravanshi-49a209178/)
 <br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://mahendravanshi.github.io/)
 
