@@ -16,9 +16,9 @@
 <!-- ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) -->
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mahendravanshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mahendravanshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![](https://github-readme-stats.vercel.app/api?username=mahendravanshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahendravanshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendravanshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendravanshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahendravanshi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
