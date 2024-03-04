@@ -18,7 +18,7 @@ I'm a Java Backend developer with a keen interest in Data Structures and Algorit
 #  GitHub Stats:
 <br/>
 [![GitHub Stats]](https://github-readme-stats.vercel.app/api?username=mahendravanshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/mahendravanshi)
-[![GitHub Streak]](https://github-readme-streak-stats.herokuapp.com/?user=mahendravanshi&theme=dark&hide_border=false)](https://github.com/mahendravanshi)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahendravanshi&theme=dark)](https://git.io/streak-stats)
 [![Top Languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendravanshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/mahendravanshi)
 
 ##  GitHub Trophies
