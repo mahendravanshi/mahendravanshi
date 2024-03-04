@@ -6,9 +6,9 @@
 
 ##  Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendra-chandravanshi-49a209178/)
+[![LinkedIn]](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendra-chandravanshi-49a209178/)
 <br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://mahendravanshi.github.io/)
+[![Portfolio]](https://img.shields.io/badge/Portfolio-8A2BE2)](https://mahendravanshi.github.io/)
 
 I'm a Java Backend developer with a keen interest in Data Structures and Algorithms. I'm enthusiastic about exploring new technologies and developing scalable and efficient applications using modern software development practices.
 
