@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi 🙋‍♂️&nbsp;
-I'm Mahendra Chandravanshi
+I'm Mahendra
 </h1>
 
 ## 🌐 Socials:
