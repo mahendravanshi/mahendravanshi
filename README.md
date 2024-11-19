@@ -1,7 +1,6 @@
 <h1 align="center">
     Hi &nbsp;
     I'm Mahendra Chandravanshi 🙋‍♂️
-   <img align="center" src="https://img.shields.io/badge/<Full Stack Web Developer/> -571845?style=for-the-badge&logo=developer?logoWidth=90" alt="developer" />
 </h1>
 
 ## 🌐 Socials:
