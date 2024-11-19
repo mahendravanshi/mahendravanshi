@@ -8,7 +8,7 @@ I'm Mahendra Chandravanshi
 <br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://mahendravanshi.github.io/)
 
- I'm a Full Stack Java Backend developer with proficiency in SQL. I possess a keen interest in Data Structures and Algorithms and I'm enthusiastic about exploring new technologies. I'm also interested in developing scalable and efficient applications using modern software development practices. 
+I'm a Full Stack Java developer with expertise in SQL. I have a strong interest in Data Structures and Algorithms and enjoy exploring new technologies. I'm passionate about developing scalable and efficient applications using modern software development practices.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
